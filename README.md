@@ -1,2 +1,2 @@
 # hello-world
-tryin shit out
+Tryin shit out, it's going dandy!
